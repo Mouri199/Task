@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div >
+      <div className='bg-gradient-to-b from-white to-yellow-200' >
 
         <img className='container mx-auto w-[500px]' src={logo} alt="" />
         <Banner></Banner>
